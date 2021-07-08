@@ -8,10 +8,9 @@ function Home() {
             </div>
             <div class="content">
                 <h1 class="main-title">Ahmad Habibzad</h1>
-                <h2 class="intro-title">Java Full Stack Developer in Training</h2>
+                <h2 class="intro-title">Java Full Stack Developer</h2>
                 <p class="body-txt">
-                    Hi, I’m Ahmad! I am learning Java Full Stack development at <a href="https://www.meritamerica.org/"
-                        rel="noreferrer" target="_blank" class="merit">Merit America</a>.
+                    Hi, welcome to my porfolio website! I am a full stack Java developer based in Maryland, United States.
                 </p>
                 <a href="#contact" class="cnt-btn">Contact Me</a>
             </div>
