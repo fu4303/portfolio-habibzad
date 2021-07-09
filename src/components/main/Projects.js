@@ -7,7 +7,7 @@ function Projects() {
             <div className="projects-container">
                 <div className=" project">
                     <div className="project-img_container">
-                        <a href="http://habibzad.dev/rpsGame/" rel="noreferrer" target="_blank">
+                        <a href="https://habibzad.github.io/rpsGame/" rel="noreferrer" target="_blank">
                             <img className="project-img" src="images/project1.jpg" alt="" />
                         </a>
                     </div>
@@ -19,7 +19,7 @@ function Projects() {
                 </div>
                 <div className="project">
                     <div className="project-img_container">
-                        <a href="https://habibzad.dev/gpa-calculator/" rel="noreferrer" target="_blank">
+                        <a href="https://habibzad.github.io/gpa-calculator/" rel="noreferrer" target="_blank">
                             <img className="project-img" src="images/project2.jpg" alt="" />
                         </a>
                     </div>
@@ -41,7 +41,7 @@ function Projects() {
                 </div>
                 <div className="project">
                     <div className="project-img_container">
-                        <a href="http://habibzad.dev/inspirational-quotes/" rel="noreferrer" target="_blank">
+                        <a href="https://habibzad.github.io/inspirational-quotes/" rel="noreferrer" target="_blank">
                             <img className="project-img" src="images/project4.jpg" alt="" />
                         </a>
                     </div>
@@ -52,7 +52,7 @@ function Projects() {
                 </div>
                 <div className=" project">
                     <div className="project-img_container">
-                        <a href="http://habibzad.dev/to-do-list/" rel="noreferrer" target="_blank">
+                        <a href="https://habibzad.github.io/to-do-list/" rel="noreferrer" target="_blank">
                             <img className="project-img" src="images/todo.jpg" alt="" />
                         </a>
                     </div>
