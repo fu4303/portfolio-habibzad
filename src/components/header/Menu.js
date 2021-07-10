@@ -25,16 +25,16 @@ function Menu() {
             <nav className="nav">
                 <ul id="nav-list" className={`nav-list list flex ${menuOpen ? "nav-open" : ""}`}>
                     <li className="nav-item">
-                        <a className="nav-link link" onClick={handleLink} href="#">Home</a>
+                        <a className="nav-link link" onClick={handleLink} href="/#">Home</a>
                     </li>
                     <li className="nav-item">
-                        <a className="nav-link link" onClick={handleLink} href="#skills">Skills</a>
+                        <a className="nav-link link" onClick={handleLink} href="/#skills">Skills</a>
                     </li>
                     <li className="nav-item">
-                        <a className="nav-link link" onClick={handleLink} href="#projects">Projects</a>
+                        <a className="nav-link link" onClick={handleLink} href="/#projects">Projects</a>
                     </li>
                     <li className="nav-item">
-                        <a className="nav-link link nav-link_last" onClick={handleLink} href="#contact">Contact</a>
+                        <a className="nav-link link nav-link_last" onClick={handleLink} href="/#contact">Contact</a>
                     </li>
                 </ul>
             </nav>
